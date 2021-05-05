@@ -17,13 +17,15 @@
 ### **3. What dataset(s) do you plan to use, and how will you obtain the data?**
 #### In order to perform this analysis, I will use the Equinor Volve dataset which has been released publicly for the furthering of education. Equinor is a Norwegian state-owned energy company and Volve Field is an oilfield in the North Sea that produced between 2008 and 2016.  All field-related data was  generously released for public use.
     
-####The data that will be used in this investigation are the petrophysical properties of the near-wellbore rocks. There are 20+ wells where this data is provided.  I will also be using physical measurements of the drilling process such as rate of penetration through the rock.
+#### The data that will be used in this investigation are the petrophysical properties of the near-wellbore rocks. There are 20+ wells where this data is provided.  I will also be using physical measurements of the drilling process such as rate of penetration through the rock.
 
 ### **4. What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?**
 #### The data that is provided for this analysis includes: Gamma ray logs, Mud logs, bulk density logs, neutron porosity logs, density porosities. The lithological properties of the rocks can be determined accurately with a combination of these features.
     
 <center><img src="Lithological_Classification.png"/>
+    
 ### **5. If modeling, what will you predict as your target?**
+
 #### The target for prediction will be lithologies of the near-wellbore rocks. These predictions will be verified using the cuttings that were recovered while drilling (the rock pieces recovered from the rock that was drilled)
 
     
